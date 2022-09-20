@@ -1,0 +1,15 @@
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\bin\Debug\net6.0\BlockResults.exe
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\bin\Debug\net6.0\BlockResults.deps.json
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\bin\Debug\net6.0\BlockResults.runtimeconfig.json
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\bin\Debug\net6.0\BlockResults.dll
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\bin\Debug\net6.0\BlockResults.pdb
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\BlockResults.csproj.AssemblyReference.cache
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\BlockResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\BlockResults.AssemblyInfoInputs.cache
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\BlockResults.AssemblyInfo.cs
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\BlockResults.csproj.CoreCompileInputs.cache
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\BlockResults.dll
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\refint\BlockResults.dll
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\BlockResults.pdb
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\BlockResults.genruntimeconfig.cache
+C:\Users\MSI User\Desktop\Обучение\Знакомство с языками программирования\BlockResults\obj\Debug\net6.0\ref\BlockResults.dll
